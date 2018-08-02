@@ -369,7 +369,7 @@
     <color name="ak_icon">#09d4b6</color>
     <color name="ak_inputBackground">#ffffff</color>
     <color name="ak_inputText">#7d97ad</color>
-    <color name="ak_statusBar">#00c5a5</color>
+    <color name="ak_statusBar">#00420f</color>
     <color name="ak_text">#61727f</color>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
@@ -389,7 +389,7 @@
     <color name="cardview_light_background">#FFFFFFFF</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
-    <color name="colorAccent">#00796B</color>
+    <color name="colorAccent">#256e37</color>
     <color name="colorPrimary">#F5F5F5</color>
     <color name="colorPrimaryDark">#e0e0e0</color>
     <color name="colordarkRed">#cc0000</color>
@@ -1608,7 +1608,8 @@
     <string description="Shown went the SMS code has been sent." name="com_accountkit_sent_title">Sent!</string>
     <string description="Show when the code is verified." name="com_accountkit_success_title">Verified!</string>
     <string description="Title for login flow." name="com_accountkit_toolbar_title">Log Into <ns1:g id="app_name">%1$s</ns1:g></string>
-    <string description="Shown when the code fails to verify." name="com_accountkit_verify_confirmation_code_title">We couldn\'t verify your code.\nPlease try again:</string>
+    <string description="Shown when the code fails to verify." name="com_accountkit_verify_confirmation_code_title">We couldn\'t verify your code.\nPlease try again.</string>
+    <string description="Shown when the code fails to verify." name="com_accountkit_verify_confirmation_code_title_colon">We couldn\'t verify your code.\nPlease try again:</string>
     <string description="Shown when verifying the code." name="com_accountkit_verify_title">Verifying your code…</string>
     <string description="Text above code entry input." name="com_accountkit_voice_call_code_entry_title">Enter your code from Voice Call</string>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
@@ -1777,7 +1778,7 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-
+        <item name="android:statusBarColor">@color/ak_statusBar</item>
     </style>
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
         <item name="android:textColorHint">@color/darkgrey</item>

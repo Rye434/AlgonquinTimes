@@ -2,7 +2,7 @@
 <resources>
     <color name="colorPrimary">#F5F5F5</color>
     <color name="colorPrimaryDark">#e0e0e0</color>
-    <color name="colorAccent">#00796B</color>
+    <color name="colorAccent">#256e37</color>
     <color name="fabSubColor">#01579B</color>
 
     <color name="grey">#bfbfbf</color>
@@ -371,6 +371,6 @@
     <color name="ak_buttonText">#ffffff</color>
     <color name="ak_inputBackground">#ffffff</color>
     <color name="ak_inputText">#7d97ad</color>
-    <color name="ak_statusBar">#00c5a5</color>
+    <color name="ak_statusBar">#00420f</color>
     <color name="ak_icon">#09d4b6</color>
 </resources>

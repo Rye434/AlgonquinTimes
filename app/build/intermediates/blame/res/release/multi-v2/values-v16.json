@@ -4,7 +4,7 @@
             "outputFile": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/f3248cf16975f981ed52843e86bae436/res/values-v16/values-v16.xml",
+                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2,5,8,11,14",
                         "startColumns": "4,4,4,4,4",

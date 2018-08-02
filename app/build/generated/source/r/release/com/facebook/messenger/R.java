@@ -119,8 +119,8 @@ public final class R {
         public static final int notification_template_part_time = 0x7f0b0081;
     }
     public static final class string {
-        public static final int messenger_send_button_text = 0x7f0e00c4;
-        public static final int status_bar_notification_info_overflow = 0x7f0e00db;
+        public static final int messenger_send_button_text = 0x7f0e00c5;
+        public static final int status_bar_notification_info_overflow = 0x7f0e00dc;
     }
     public static final class style {
         public static final int MessengerButton = 0x7f0f00ca;
