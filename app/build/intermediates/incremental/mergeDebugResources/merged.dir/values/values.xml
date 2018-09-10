@@ -362,6 +362,7 @@
     <color name="accountLabel">#7d97ad</color>
     <color name="accountLogoutLabel">#fc6240</color>
     <color name="accountText">#61727f</color>
+    <color name="active_indicator">@android:color/white</color>
     <color name="ak_background">#d5f0ec</color>
     <color name="ak_buttonBackground">#09d4b6</color>
     <color name="ak_buttonPressedBackground">#00c5a5</color>
@@ -375,8 +376,11 @@
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
+    <color name="bg">#757575</color>
     <color name="black">#000000</color>
     <color name="black_overlay">#66000000</color>
+    <color name="black_transparent">#14000000</color>
+    <color name="black_transparent_image">#46000000</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
@@ -445,9 +449,13 @@
     <color name="foreground_material_light">@android:color/black</color>
     <color name="gray">#424242</color>
     <color name="grey">#bfbfbf</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="grey_300">#e0e0e0</color>
+    <color name="grey_600">#757575</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="inactive_indicator">#4D000000</color>
     <color name="lightgray">#F5F5F5</color>
     <color name="lime">#9e9d24</color>
     <color name="link_blue">#4d94ff</color>
@@ -767,6 +775,8 @@
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="teal">#00695C</color>
+    <color name="theme1_colorAccent">#FF4081</color>
+    <color name="theme1_colorPrimary">#89cff0</color>
     <color name="toolbar_boarder">#e5e6ea</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6FFFFFF</color>
@@ -1218,6 +1228,7 @@
             <enum name="normal" value="-3"/>
             <enum name="large" value="-4"/>
         </attr><attr format="boolean" name="com_facebook_is_cropped"/></declare-styleable>
+    <declare-styleable name="gradient"><attr format="enum" name="transition_drawable"/><attr format="integer" name="transition_duration"/></declare-styleable>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_content_inset_with_nav">72dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -1292,7 +1303,9 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="activity_half_margin">8dp</dimen>
     <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
     <dimen name="cardview_default_elevation">2dp</dimen>
@@ -1401,6 +1414,7 @@
     <item format="float" name="hint_alpha_material_light" type="dimen">0.38</item>
     <item format="float" name="hint_pressed_alpha_material_dark" type="dimen">0.70</item>
     <item format="float" name="hint_pressed_alpha_material_light" type="dimen">0.54</item>
+    <dimen name="indicator_size">8dp</dimen>
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
@@ -1443,6 +1457,7 @@
     <dimen name="notification_subtext_size">13sp</dimen>
     <dimen name="notification_top_pad">10dp</dimen>
     <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <dimen name="section_image_item">128dp</dimen>
     <dimen name="tooltip_corner_radius">2dp</dimen>
     <dimen name="tooltip_horizontal_padding">16dp</dimen>
     <dimen name="tooltip_margin">8dp</dimen>
@@ -1549,6 +1564,9 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="article_page">Articles</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="button.finish">FINISH</string>
+    <string name="button.next">NEXT</string>
+    <string name="button.skip">SKIP</string>
     <string name="careers">Careers</string>
     <string name="categories_btn">Categories</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>

@@ -4,12 +4,13 @@ ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/mai
 INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-176:12
 INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-176:12
 INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-176:12
+MERGED from [:onboarder] /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/onboarder/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.android:account-kit-sdk:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/f8ec8de514de5eabd093ca527bc61374/AndroidManifest.xml:21:1-55:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.36.0.aar/af74befafbd5b48d9827a1a3b597be6a/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-login:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/2538b76d82649ccb1eaafe1a98671cbf/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-share:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.36.0.aar/b62c02cdbf558be66dbbc738ad51527b/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-common:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/c4a61c88d54a3af61991ea5888cbe197/AndroidManifest.xml:21:1-37:12
-MERGED from [com.android.support:design:27.1.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/4cc683566ba856357a83094c0dc469e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3fc19489ee6186b160bbeb9d92192193/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/016d0139c5871ed388af36e0e5c66048/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b9e7796bc59a70dd23a18e96155d5634/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/de1b3ffa74060d87ab1642d546f37867/AndroidManifest.xml:17:1-39:12
@@ -19,21 +20,21 @@ MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/rileygriff
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/f06b0f03ee1e7fefe6c88b3ffcf46e95/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/5c0cfe707db3152508c44fbc376c0ffa/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/1eb0b9ed201ac38fd4236af9ca3cfb3b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:27.1.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/4c93d9c767d092b9b6aa664fb4847a7f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/9339f77120d7432b3c177c715551b764/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/206998c95828783a287ed1f2311d5a42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5c939f1b16e70be50631565edda345bb/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.volley:volley:1.1.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/8e50a0329b109287392e951dbbd96ecf/AndroidManifest.xml:2:1-11:12
 MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/c73038b2ed8d26a7b8912c4b3494851b/AndroidManifest.xml:17:1-30:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/20811570fb1869e8559028d6b1a54f07/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/41111084e2210659ede40bd47df8ee39/AndroidManifest.xml:17:1-22:12
 MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/roundedimageview-2.3.0.aar/71e7fef21cf1bf5cac2fb23cb64a0a34/AndroidManifest.xml:2:1-9:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a8527a4cdc05fe86969f763d54eb949e/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5156cfd671bacf4f06e949656cdaad4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/427812d5d324b93ca81a27b0b464f86c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a8527a4cdc05fe86969f763d54eb949e/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a298fd79d331297032e973a8038780fb/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9bf4d46cb7ea06deb782bc51440cf8fe/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:customtabs:27.0.2] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/4c23650748f615f972dad213eb86181b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/3d5ed8123148854982c7ffdc90212cab/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-media-compat:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6ab2a6c21c90994c72d8e33b5b4e3ce2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/427812d5d324b93ca81a27b0b464f86c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/f2e65498cdb6c87f1136f66417791d15/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.android:facebook-places:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-places-4.36.0.aar/47a4cca950a9c5fe99edcb243a43dcda/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-applinks:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.36.0.aar/e6f000995c0642e44d1e1a1b8215162e/AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-messenger:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/623b70fb634331b4f06f7ee0275cbd41/AndroidManifest.xml:21:1-31:12
@@ -105,6 +106,8 @@ uses-sdk
 ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:20:5-22:41
 INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:20:5-22:41
 INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:20:5-22:41
+MERGED from [:onboarder] /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/onboarder/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:onboarder] /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/onboarder/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.android:account-kit-sdk:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/f8ec8de514de5eabd093ca527bc61374/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:account-kit-sdk:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/f8ec8de514de5eabd093ca527bc61374/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-android-sdk:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.36.0.aar/af74befafbd5b48d9827a1a3b597be6a/AndroidManifest.xml:24:5-26:41
@@ -115,8 +118,8 @@ MERGED from [com.facebook.android:facebook-share:4.36.0] /Users/rileygriffith/.g
 MERGED from [com.facebook.android:facebook-share:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.36.0.aar/b62c02cdbf558be66dbbc738ad51527b/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-common:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/c4a61c88d54a3af61991ea5888cbe197/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-common:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/c4a61c88d54a3af61991ea5888cbe197/AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:design:27.1.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/4cc683566ba856357a83094c0dc469e3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/4cc683566ba856357a83094c0dc469e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3fc19489ee6186b160bbeb9d92192193/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3fc19489ee6186b160bbeb9d92192193/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/016d0139c5871ed388af36e0e5c66048/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/016d0139c5871ed388af36e0e5c66048/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b9e7796bc59a70dd23a18e96155d5634/AndroidManifest.xml:5:5-7:41
@@ -135,10 +138,10 @@ MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/rileyg
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/5c0cfe707db3152508c44fbc376c0ffa/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/1eb0b9ed201ac38fd4236af9ca3cfb3b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/1eb0b9ed201ac38fd4236af9ca3cfb3b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/4c93d9c767d092b9b6aa664fb4847a7f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.1.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/4c93d9c767d092b9b6aa664fb4847a7f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/9339f77120d7432b3c177c715551b764/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/9339f77120d7432b3c177c715551b764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/206998c95828783a287ed1f2311d5a42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/206998c95828783a287ed1f2311d5a42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5c939f1b16e70be50631565edda345bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5c939f1b16e70be50631565edda345bb/AndroidManifest.xml:20:5-44
 MERGED from [com.android.volley:volley:1.1.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/8e50a0329b109287392e951dbbd96ecf/AndroidManifest.xml:7:5-43
 MERGED from [com.android.volley:volley:1.1.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/8e50a0329b109287392e951dbbd96ecf/AndroidManifest.xml:7:5-43
 MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/c73038b2ed8d26a7b8912c4b3494851b/AndroidManifest.xml:20:5-44
@@ -149,22 +152,22 @@ MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/rileygri
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/41111084e2210659ede40bd47df8ee39/AndroidManifest.xml:20:5-44
 MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/roundedimageview-2.3.0.aar/71e7fef21cf1bf5cac2fb23cb64a0a34/AndroidManifest.xml:7:5-43
 MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/roundedimageview-2.3.0.aar/71e7fef21cf1bf5cac2fb23cb64a0a34/AndroidManifest.xml:7:5-43
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a8527a4cdc05fe86969f763d54eb949e/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a8527a4cdc05fe86969f763d54eb949e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5156cfd671bacf4f06e949656cdaad4b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5156cfd671bacf4f06e949656cdaad4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/427812d5d324b93ca81a27b0b464f86c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/427812d5d324b93ca81a27b0b464f86c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a8527a4cdc05fe86969f763d54eb949e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a8527a4cdc05fe86969f763d54eb949e/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a298fd79d331297032e973a8038780fb/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a298fd79d331297032e973a8038780fb/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9bf4d46cb7ea06deb782bc51440cf8fe/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9bf4d46cb7ea06deb782bc51440cf8fe/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:customtabs:27.0.2] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/4c23650748f615f972dad213eb86181b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:customtabs:27.0.2] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/4c23650748f615f972dad213eb86181b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/3d5ed8123148854982c7ffdc90212cab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/3d5ed8123148854982c7ffdc90212cab/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6ab2a6c21c90994c72d8e33b5b4e3ce2/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6ab2a6c21c90994c72d8e33b5b4e3ce2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/427812d5d324b93ca81a27b0b464f86c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/427812d5d324b93ca81a27b0b464f86c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/f2e65498cdb6c87f1136f66417791d15/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/f2e65498cdb6c87f1136f66417791d15/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.android:facebook-places:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-places-4.36.0.aar/47a4cca950a9c5fe99edcb243a43dcda/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-places:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-places-4.36.0.aar/47a4cca950a9c5fe99edcb243a43dcda/AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-applinks:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.36.0.aar/e6f000995c0642e44d1e1a1b8215162e/AndroidManifest.xml:24:5-26:41

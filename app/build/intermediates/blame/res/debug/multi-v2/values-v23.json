@@ -4,25 +4,6 @@
             "outputFile": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/4c93d9c767d092b9b6aa664fb4847a7f/res/values-v23/values-v23.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "200"
-                    },
-                    "to": {
-                        "startLines": "49",
-                        "startColumns": "4",
-                        "startOffsets": "3224",
-                        "endLines": "51",
-                        "endColumns": "12",
-                        "endOffsets": "3369"
-                    }
-                },
-                {
                     "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/016d0139c5871ed388af36e0e5c66048/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
@@ -50,6 +31,25 @@
                         "endLines": "4,7,10,13",
                         "endColumns": "12,12,12,12",
                         "endOffsets": "203,348,483,628"
+                    }
+                },
+                {
+                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/206998c95828783a287ed1f2311d5a42/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "49",
+                        "startColumns": "4",
+                        "startOffsets": "3224",
+                        "endLines": "51",
+                        "endColumns": "12",
+                        "endOffsets": "3369"
                     }
                 }
             ]

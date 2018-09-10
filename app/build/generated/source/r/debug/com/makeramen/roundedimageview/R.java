@@ -22,21 +22,21 @@ public final class R {
         public static final int riv_tile_mode_y = 0x7f040174;
     }
     public static final class id {
-        public static final int clamp = 0x7f090058;
-        public static final int mirror = 0x7f0900ec;
-        public static final int repeat = 0x7f090118;
+        public static final int clamp = 0x7f09005d;
+        public static final int mirror = 0x7f0900f5;
+        public static final int repeat = 0x7f090123;
     }
     public static final class string {
-        public static final int define_roundedimageview = 0x7f0e00a7;
-        public static final int library_roundedimageview_author = 0x7f0e00b8;
-        public static final int library_roundedimageview_authorWebsite = 0x7f0e00b9;
-        public static final int library_roundedimageview_isOpenSource = 0x7f0e00ba;
-        public static final int library_roundedimageview_libraryDescription = 0x7f0e00bb;
-        public static final int library_roundedimageview_libraryName = 0x7f0e00bc;
-        public static final int library_roundedimageview_libraryVersion = 0x7f0e00bd;
-        public static final int library_roundedimageview_libraryWebsite = 0x7f0e00be;
-        public static final int library_roundedimageview_licenseId = 0x7f0e00bf;
-        public static final int library_roundedimageview_repositoryLink = 0x7f0e00c0;
+        public static final int define_roundedimageview = 0x7f0e00aa;
+        public static final int library_roundedimageview_author = 0x7f0e00bb;
+        public static final int library_roundedimageview_authorWebsite = 0x7f0e00bc;
+        public static final int library_roundedimageview_isOpenSource = 0x7f0e00bd;
+        public static final int library_roundedimageview_libraryDescription = 0x7f0e00be;
+        public static final int library_roundedimageview_libraryName = 0x7f0e00bf;
+        public static final int library_roundedimageview_libraryVersion = 0x7f0e00c0;
+        public static final int library_roundedimageview_libraryWebsite = 0x7f0e00c1;
+        public static final int library_roundedimageview_licenseId = 0x7f0e00c2;
+        public static final int library_roundedimageview_repositoryLink = 0x7f0e00c3;
     }
     public static final class styleable {
         public static final int[] RoundedImageView = { 0x0101011d, 0x7f040169, 0x7f04016a, 0x7f04016b, 0x7f04016c, 0x7f04016d, 0x7f04016e, 0x7f04016f, 0x7f040170, 0x7f040171, 0x7f040172, 0x7f040173, 0x7f040174 };
