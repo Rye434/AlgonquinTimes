@@ -17,7 +17,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_confirmation_code_top.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_confirmation_code_top.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_confirmation_code_top.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -41,7 +41,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -69,7 +69,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_login_background.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable/com_facebook_button_login_background.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable/com_facebook_button_login_background.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -89,11 +89,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_login_silver_background.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable/com_facebook_button_login_silver_background.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable/com_facebook_button_login_silver_background.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_email_verify_center.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_email_verify_center.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_email_verify_center.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_content_event_details.xml.flat",
@@ -117,11 +117,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_icon.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable/com_facebook_button_icon.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable/com_facebook_button_icon.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_facebook_auth_dialog_cancel_background.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
@@ -133,7 +133,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_com_accountkit_device.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-xxxhdpi-v4/com_accountkit_device.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-xxxhdpi-v4/com_accountkit_device.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_ic_record_voice_over_white_24dp.xml.flat",
@@ -225,7 +225,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_sending_code_center.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_sending_code_center.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_sending_code_center.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/animator-v21_design_appbar_state_list_animator.xml.flat",
@@ -241,7 +241,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_messenger_button_blue_bg_round.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable/messenger_button_blue_bg_round.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable/messenger_button_blue_bg_round.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -265,7 +265,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_bubble_large_white.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-hdpi-v4/messenger_bubble_large_white.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-hdpi-v4/messenger_bubble_large_white.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -297,7 +297,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_icon_blue.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable-hdpi-v4/com_facebook_button_icon_blue.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable-hdpi-v4/com_facebook_button_icon_blue.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_small_material.xml.flat",
@@ -313,7 +313,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_messenger_bubble_small_blue.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-mdpi-v4/messenger_bubble_small_blue.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-mdpi-v4/messenger_bubble_small_blue.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
@@ -321,7 +321,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_send_icon_blue.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.35.0.aar/d40ff654f1a8825076fb212a34a68626/res/drawable-mdpi-v4/com_facebook_button_send_icon_blue.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.36.0.aar/a32946585613b601da86a660283b7ebd/res/drawable-mdpi-v4/com_facebook_button_send_icon_blue.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_ic_business_white_18dp.xml.flat",
@@ -345,7 +345,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_button_send_round_shadow.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-hdpi-v4/messenger_button_send_round_shadow.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-hdpi-v4/messenger_button_send_round_shadow.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/color-v23_abc_tint_default.xml.flat",
@@ -365,7 +365,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_send_background.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.35.0.aar/d40ff654f1a8825076fb212a34a68626/res/drawable/com_facebook_button_send_background.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.36.0.aar/a32946585613b601da86a660283b7ebd/res/drawable/com_facebook_button_send_background.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_activity_post_full_screen.xml.flat",
@@ -377,7 +377,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-hdpi-v4/com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_send_tip.xml.flat",
@@ -401,7 +401,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_error_bottom.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_error_bottom.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_error_bottom.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -421,11 +421,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_xout.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_login_logo.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable/com_facebook_button_login_logo.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable/com_facebook_button_login_logo.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -477,11 +477,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_messenger_button_white_bg_selector.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable/messenger_button_white_bg_selector.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable/messenger_button_white_bg_selector.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_messenger_bubble_small_white.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-mdpi-v4/messenger_bubble_small_white.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-mdpi-v4/messenger_bubble_small_white.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -513,7 +513,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_background.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable/com_facebook_button_background.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable/com_facebook_button_background.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -561,7 +561,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_accountkit_device.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-xhdpi-v4/com_accountkit_device.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-xhdpi-v4/com_accountkit_device.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_design_ic_visibility.xml.flat",
@@ -609,11 +609,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/anim_com_accountkit_progress_complete_circle_anim.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/anim/com_accountkit_progress_complete_circle_anim.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/anim/com_accountkit_progress_complete_circle_anim.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_icon_blue.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable-mdpi-v4/com_facebook_button_icon_blue.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable-mdpi-v4/com_facebook_button_icon_blue.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_content_articles.xml.flat",
@@ -645,7 +645,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_com_accountkit_check_sms.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-xxxhdpi-v4/com_accountkit_check_sms.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-xxxhdpi-v4/com_accountkit_check_sms.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
@@ -669,7 +669,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_bubble_small_blue.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-xhdpi-v4/messenger_bubble_small_blue.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-xhdpi-v4/messenger_bubble_small_blue.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_ic_pool_black_18dp.xml.flat",
@@ -693,11 +693,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -709,7 +709,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_indicator_material.xml.flat",
@@ -729,7 +729,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_close.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable-hdpi-v4/com_facebook_close.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable-hdpi-v4/com_facebook_close.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
@@ -757,7 +757,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_bubble_small_white.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-xhdpi-v4/messenger_bubble_small_white.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-xhdpi-v4/messenger_bubble_small_white.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
@@ -777,11 +777,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_confirmation_code_bottom.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_confirmation_code_bottom.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_confirmation_code_bottom.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_icon_white.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable-xxhdpi-v4/com_facebook_button_icon_white.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable-xxhdpi-v4/com_facebook_button_icon_white.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
@@ -789,7 +789,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_xout.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -817,7 +817,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_messenger_bubble_small_white.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-xxhdpi-v4/messenger_bubble_small_white.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-xxhdpi-v4/messenger_bubble_small_white.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
@@ -849,7 +849,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_messenger_button_white_bg_round.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable/messenger_button_white_bg_round.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable/messenger_button_white_bg_round.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -865,7 +865,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_activity_layout.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_activity_layout.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_activity_layout.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -889,7 +889,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_messenger_button_send_white_large.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/layout/messenger_button_send_white_large.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/layout/messenger_button_send_white_large.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
@@ -917,7 +917,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-hdpi-v4/com_facebook_tooltip_black_bottomnub.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_ic_lightbulb_outline_black_18dp.xml.flat",
@@ -937,7 +937,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_send_icon_blue.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.35.0.aar/d40ff654f1a8825076fb212a34a68626/res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.36.0.aar/a32946585613b601da86a660283b7ebd/res/drawable-xhdpi-v4/com_facebook_button_send_icon_blue.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -953,7 +953,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_facebook_device_auth_dialog_fragment.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/layout/com_facebook_device_auth_dialog_fragment.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
@@ -961,7 +961,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_verifying_code_center.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_verifying_code_center.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_verifying_code_center.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
@@ -997,7 +997,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -1033,11 +1033,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_messenger_button_send_blue_small.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/layout/messenger_button_send_blue_small.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/layout/messenger_button_send_blue_small.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-hdpi-v4/com_facebook_tooltip_blue_topnub.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
@@ -1049,7 +1049,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_ic_arrow_back_white.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable/ic_arrow_back_white.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable/ic_arrow_back_white.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1069,7 +1069,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_like_background.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable/com_facebook_button_like_background.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable/com_facebook_button_like_background.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
@@ -1105,7 +1105,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
@@ -1133,7 +1133,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_accountkit_get_call.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-mdpi-v4/com_accountkit_get_call.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-mdpi-v4/com_accountkit_get_call.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
@@ -1145,19 +1145,19 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_send_icon_blue.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.35.0.aar/d40ff654f1a8825076fb212a34a68626/res/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.36.0.aar/a32946585613b601da86a660283b7ebd/res/drawable-hdpi-v4/com_facebook_button_send_icon_blue.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/color_com_facebook_send_button_text_color.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.35.0.aar/d40ff654f1a8825076fb212a34a68626/res/color/com_facebook_send_button_text_color.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.36.0.aar/a32946585613b601da86a660283b7ebd/res/color/com_facebook_send_button_text_color.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1165,7 +1165,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_messenger_bubble_large_white.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-mdpi-v4/messenger_bubble_large_white.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-mdpi-v4/messenger_bubble_large_white.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -1177,11 +1177,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_ic_star_rate_black_18dp.xml.flat",
@@ -1205,7 +1205,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_messenger_button_send_round_shadow.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-mdpi-v4/messenger_button_send_round_shadow.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-mdpi-v4/messenger_button_send_round_shadow.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -1217,7 +1217,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_sent_code_center.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_sent_code_center.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_sent_code_center.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
@@ -1265,7 +1265,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_messenger_bubble_small_blue.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-xxhdpi-v4/messenger_bubble_small_blue.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-xxhdpi-v4/messenger_bubble_small_blue.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -1285,7 +1285,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_email_login_center.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_email_login_center.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_email_login_center.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_light.xml.flat",
@@ -1297,7 +1297,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_facebook_auth_dialog_background.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable/com_facebook_auth_dialog_background.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable/com_facebook_auth_dialog_background.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1305,7 +1305,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_profile_picture_blank_portrait.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
@@ -1313,7 +1313,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_icon_blue.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable-xhdpi-v4/com_facebook_button_icon_blue.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable-xhdpi-v4/com_facebook_button_icon_blue.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-v21_design_bottom_navigation_item_background.xml.flat",
@@ -1337,11 +1337,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_accountkit_pencil.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable/com_accountkit_pencil.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable/com_accountkit_pencil.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_messenger_button_send_blue_round.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/layout/messenger_button_send_blue_round.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/layout/messenger_button_send_blue_round.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
@@ -1405,7 +1405,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_confirmation_code_input.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_confirmation_code_input.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_confirmation_code_input.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
@@ -1413,7 +1413,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_topnub.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -1425,7 +1425,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_error_center.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_error_center.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_error_center.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -1453,7 +1453,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -1461,7 +1461,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-xhdpi-v4/com_facebook_tooltip_blue_background.9.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
@@ -1553,7 +1553,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_accountkit_device.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-xxhdpi-v4/com_accountkit_device.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-xxhdpi-v4/com_accountkit_device.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_abc_text_cursor_material.xml.flat",
@@ -1581,7 +1581,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_email_login_top.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_email_login_top.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_email_login_top.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light.xml.flat",
@@ -1589,7 +1589,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_icon_white.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable-mdpi-v4/com_facebook_button_icon_white.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable-mdpi-v4/com_facebook_button_icon_white.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -1597,7 +1597,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_static_content.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_static_content.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_static_content.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1609,7 +1609,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_xout.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-hdpi-v4/com_facebook_tooltip_black_xout.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -1621,7 +1621,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-hdpi-v4/com_facebook_tooltip_blue_xout.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_track_material.xml.flat",
@@ -1645,7 +1645,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_facebook_smart_device_dialog_fragment.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/layout/com_facebook_smart_device_dialog_fragment.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -1657,7 +1657,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-v21_com_accountkit_input_cursor.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-v21/com_accountkit_input_cursor.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-v21/com_accountkit_input_cursor.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1665,7 +1665,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_phone_login_text.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_phone_login_text.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_phone_login_text.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_foreground.png.flat",
@@ -1677,7 +1677,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_accountkit_spinner_triangle.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-xxhdpi-v4/com_accountkit_spinner_triangle.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-xxhdpi-v4/com_accountkit_spinner_triangle.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
@@ -1709,11 +1709,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_facebook_tooltip_bubble.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/layout/com_facebook_tooltip_bubble.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/layout/com_facebook_tooltip_bubble.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.35.0.aar/d40ff654f1a8825076fb212a34a68626/res/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.36.0.aar/a32946585613b601da86a660283b7ebd/res/drawable-xxhdpi-v4/com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
@@ -1741,7 +1741,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/anim_com_accountkit_progress_complete_check_anim.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/anim/com_accountkit_progress_complete_check_anim.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/anim/com_accountkit_progress_complete_check_anim.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -1749,7 +1749,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_xout.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
@@ -1781,7 +1781,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_accountkit_check_sms.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-mdpi-v4/com_accountkit_check_sms.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-mdpi-v4/com_accountkit_check_sms.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
@@ -1797,7 +1797,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_bubble_large_white.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-xhdpi-v4/messenger_bubble_large_white.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-xhdpi-v4/messenger_bubble_large_white.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
@@ -1825,7 +1825,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.35.0.aar/d40ff654f1a8825076fb212a34a68626/res/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.36.0.aar/a32946585613b601da86a660283b7ebd/res/drawable-xhdpi-v4/com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -1837,7 +1837,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_messenger_button_blue_bg_selector.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable/messenger_button_blue_bg_selector.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable/messenger_button_blue_bg_selector.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_design_bottom_navigation_item.xml.flat",
@@ -1865,7 +1865,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_messenger_button_send_blue_large.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/layout/messenger_button_send_blue_large.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/layout/messenger_button_send_blue_large.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_activity_event_full_screen.xml.flat",
@@ -1881,7 +1881,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.35.0.aar/d40ff654f1a8825076fb212a34a68626/res/drawable-mdpi-v4/com_facebook_button_send_icon_white.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.36.0.aar/a32946585613b601da86a660283b7ebd/res/drawable-mdpi-v4/com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_ic_menu_slideshow.xml.flat",
@@ -1929,7 +1929,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/color_com_facebook_button_text_color.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/color/com_facebook_button_text_color.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/color/com_facebook_button_text_color.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
@@ -1961,7 +1961,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_bubble_small_white.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-hdpi-v4/messenger_bubble_small_white.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-hdpi-v4/messenger_bubble_small_white.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_ic_settings_black_24dp.xml.flat",
@@ -1985,11 +1985,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_accountkit_progress_complete_vector.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable/com_accountkit_progress_complete_vector.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable/com_accountkit_progress_complete_vector.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -2009,7 +2009,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_accountkit_error.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable/com_accountkit_error.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable/com_accountkit_error.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -2021,7 +2021,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_facebook_favicon_blue.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable/com_facebook_favicon_blue.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable/com_facebook_favicon_blue.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_abc_screen_simple.xml.flat",
@@ -2029,7 +2029,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_phone_country_code_layout.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_phone_country_code_layout.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_phone_country_code_layout.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_ic_feedback_white_24dp.xml.flat",
@@ -2045,7 +2045,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_accountkit_spinner_triangle.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-mdpi-v4/com_accountkit_spinner_triangle.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-mdpi-v4/com_accountkit_spinner_triangle.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_white_grey_border_top.xml.flat",
@@ -2053,7 +2053,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_phone_login_top.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_phone_login_top.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_phone_login_top.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
@@ -2093,7 +2093,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_icon_white.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable-hdpi-v4/com_facebook_button_icon_white.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable-hdpi-v4/com_facebook_button_icon_white.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
@@ -2105,7 +2105,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_phone_login_center.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_phone_login_center.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_phone_login_center.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
@@ -2113,23 +2113,23 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_facebook_login_fragment.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/layout/com_facebook_login_fragment.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/layout/com_facebook_login_fragment.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_accountkit_device.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-hdpi-v4/com_accountkit_device.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-hdpi-v4/com_accountkit_device.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_messenger_bubble_large_white.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-xxhdpi-v4/messenger_bubble_large_white.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-xxhdpi-v4/messenger_bubble_large_white.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_email_login_bottom.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_email_login_bottom.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_email_login_bottom.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_com_accountkit_code_fb.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-xxxhdpi-v4/com_accountkit_code_fb.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-xxxhdpi-v4/com_accountkit_code_fb.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -2137,11 +2137,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_messenger_button_send_white_round.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/layout/messenger_button_send_white_round.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/layout/messenger_button_send_white_round.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_messenger_bubble_large_blue.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-mdpi-v4/messenger_bubble_large_blue.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-mdpi-v4/messenger_bubble_large_blue.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
@@ -2181,7 +2181,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_fragment_instagram.xml.flat",
@@ -2193,11 +2193,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_bubble_large_blue.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-hdpi-v4/messenger_bubble_large_blue.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-hdpi-v4/messenger_bubble_large_blue.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_facebook_button_icon_blue.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable-xxhdpi-v4/com_facebook_button_icon_blue.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable-xxhdpi-v4/com_facebook_button_icon_blue.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/anim_design_snackbar_out.xml.flat",
@@ -2209,7 +2209,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_email_verify_bottom.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_email_verify_bottom.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_email_verify_bottom.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -2221,7 +2221,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -2245,7 +2245,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_messenger_button_send_white_small.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/layout/messenger_button_send_white_small.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/layout/messenger_button_send_white_small.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_ic_tune_black_24dp.xml.flat",
@@ -2253,11 +2253,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_email_login_text.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_email_login_text.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_email_login_text.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_messenger_bubble_large_blue.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-xxhdpi-v4/messenger_bubble_large_blue.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-xxhdpi-v4/messenger_bubble_large_blue.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -2285,11 +2285,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_accountkit_check_sms.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-xhdpi-v4/com_accountkit_check_sms.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-xhdpi-v4/com_accountkit_check_sms.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_accountkit_spinner_triangle.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-hdpi-v4/com_accountkit_spinner_triangle.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-hdpi-v4/com_accountkit_spinner_triangle.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_ic_forum_black_18dp.xml.flat",
@@ -2305,11 +2305,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_accountkit_device.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-mdpi-v4/com_accountkit_device.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-mdpi-v4/com_accountkit_device.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_phone_login_bottom.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_phone_login_bottom.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_phone_login_bottom.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -2341,7 +2341,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_facebook_activity_layout.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/layout/com_facebook_activity_layout.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/layout/com_facebook_activity_layout.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_abc_ic_menu_overflow_material.xml.flat",
@@ -2369,7 +2369,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_accountkit_check_sms.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-hdpi-v4/com_accountkit_check_sms.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-hdpi-v4/com_accountkit_check_sms.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -2377,7 +2377,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_accountkit_get_call.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-xhdpi-v4/com_accountkit_get_call.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-xhdpi-v4/com_accountkit_get_call.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
@@ -2385,7 +2385,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_accountkit_progress_ring.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable/com_accountkit_progress_ring.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable/com_accountkit_progress_ring.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -2429,7 +2429,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_accountkit_get_call.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-xxhdpi-v4/com_accountkit_get_call.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-xxhdpi-v4/com_accountkit_get_call.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -2465,7 +2465,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_messenger_button_send_round_shadow.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-xxhdpi-v4/messenger_button_send_round_shadow.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-xxhdpi-v4/messenger_button_send_round_shadow.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -2473,11 +2473,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_phone_country_code_item_layout.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_phone_country_code_item_layout.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_phone_country_code_item_layout.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_facebook_auth_dialog_header_background.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable/com_facebook_auth_dialog_header_background.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable/com_facebook_auth_dialog_header_background.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
@@ -2493,7 +2493,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_accountkit_email.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable/com_accountkit_email.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable/com_accountkit_email.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -2529,7 +2529,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_accountkit_get_call.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-hdpi-v4/com_accountkit_get_call.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-hdpi-v4/com_accountkit_get_call.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
@@ -2545,7 +2545,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_accountkit_check_sms.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-xxhdpi-v4/com_accountkit_check_sms.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-xxhdpi-v4/com_accountkit_check_sms.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -2565,7 +2565,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_blue_background.9.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -2573,7 +2573,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_com_accountkit_spinner_triangle.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-xxxhdpi-v4/com_accountkit_spinner_triangle.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-xxxhdpi-v4/com_accountkit_spinner_triangle.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
@@ -2585,7 +2585,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_close.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable-xhdpi-v4/com_facebook_close.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable-xhdpi-v4/com_facebook_close.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_tick_mark_material.xml.flat",
@@ -2665,7 +2665,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_bubble_large_blue.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-xhdpi-v4/messenger_bubble_large_blue.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-xhdpi-v4/messenger_bubble_large_blue.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
@@ -2673,11 +2673,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_bubble_small_blue.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-hdpi-v4/messenger_bubble_small_blue.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-hdpi-v4/messenger_bubble_small_blue.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_facebook_send_button_icon.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.35.0.aar/d40ff654f1a8825076fb212a34a68626/res/drawable/com_facebook_send_button_icon.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.36.0.aar/a32946585613b601da86a660283b7ebd/res/drawable/com_facebook_send_button_icon.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -2689,7 +2689,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_tooltip_black_topnub.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout-v26_abc_screen_toolbar.xml.flat",
@@ -2769,7 +2769,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_accountkit_spinner_triangle.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-xhdpi-v4/com_accountkit_spinner_triangle.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-xhdpi-v4/com_accountkit_spinner_triangle.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_light.xml.flat",
@@ -2777,7 +2777,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_profile_picture_blank_square.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
@@ -2821,11 +2821,11 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_accountkit_code_fb.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-xhdpi-v4/com_accountkit_code_fb.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-xhdpi-v4/com_accountkit_code_fb.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-v21_com_accountkit_progress_complete.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-v21/com_accountkit_progress_complete.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-v21/com_accountkit_progress_complete.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_ic_event_black_24dp.xml.flat",
@@ -2869,7 +2869,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_close.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable-mdpi-v4/com_facebook_close.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable-mdpi-v4/com_facebook_close.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
@@ -2893,15 +2893,15 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_accountkit_code_fb.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-xxhdpi-v4/com_accountkit_code_fb.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-xxhdpi-v4/com_accountkit_code_fb.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_confirmation_code_center.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_confirmation_code_center.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_confirmation_code_center.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_like_icon_selected.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
@@ -2917,15 +2917,15 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_title.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_title.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_title.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_facebook_button_send_icon_white.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.35.0.aar/d40ff654f1a8825076fb212a34a68626/res/drawable-hdpi-v4/com_facebook_button_send_icon_white.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.36.0.aar/a32946585613b601da86a660283b7ebd/res/drawable-hdpi-v4/com_facebook_button_send_icon_white.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_accountkit_code_fb.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-mdpi-v4/com_accountkit_code_fb.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-mdpi-v4/com_accountkit_code_fb.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_design_navigation_item_header.xml.flat",
@@ -2937,7 +2937,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_messenger_button_send_round_shadow.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.35.0.aar/de59e21beadafd0071b3020363b08b48/res/drawable-xhdpi-v4/messenger_button_send_round_shadow.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.36.0.aar/85ccb659fd23a1fc533be09865c720ea/res/drawable-xhdpi-v4/messenger_button_send_round_shadow.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
@@ -2957,7 +2957,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_button_icon_white.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.35.0.aar/17de4849287366df5143b0104e263601/res/drawable-xhdpi-v4/com_facebook_button_icon_white.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-common-4.36.0.aar/4a9a30c12c46e2f9eb015274a93c160f/res/drawable-xhdpi-v4/com_facebook_button_icon_white.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
@@ -2973,7 +2973,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_blue_bottomnub.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.35.0.aar/c49f37499d20182681250af56720f4a5/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/5e5de5b24abd819efc9a7002693af55c/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
@@ -2981,15 +2981,15 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_accountkit_code_fb.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-hdpi-v4/com_accountkit_code_fb.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-hdpi-v4/com_accountkit_code_fb.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_com_accountkit_get_call.png.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/drawable-xxxhdpi-v4/com_accountkit_get_call.png"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/drawable-xxxhdpi-v4/com_accountkit_get_call.png"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_resend_bottom.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_resend_bottom.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_resend_bottom.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
@@ -2997,7 +2997,7 @@
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_verified_code_center.xml.flat",
-        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.35.0.aar/ed87c49dbf4067c889369b815c599862/res/layout/com_accountkit_fragment_verified_code_center.xml"
+        "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/layout/com_accountkit_fragment_verified_code_center.xml"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",

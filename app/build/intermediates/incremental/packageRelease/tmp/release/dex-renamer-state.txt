@@ -1,4 +1,4 @@
-#Thu Aug 02 10:44:25 EDT 2018
+#Mon Sep 03 15:31:27 EDT 2018
 base.0=/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/transforms/dexMerger/release/0
 path.0=classes.dex
 renamed.0=classes.dex

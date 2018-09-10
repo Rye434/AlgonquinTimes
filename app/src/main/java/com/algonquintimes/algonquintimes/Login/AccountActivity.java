@@ -41,7 +41,6 @@ public class AccountActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_account);
 
-
         profilePic = (ImageView) findViewById(R.id.profile_image);
         id = (TextView) findViewById(R.id.id);
         infoLabel = (TextView) findViewById(R.id.info_label);

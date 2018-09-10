@@ -25,8 +25,6 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.LinearLayout;
 
-import com.algonquintimes.algonquintimes.Email.SendTipActivity;
-import com.algonquintimes.algonquintimes.Email.StoryIdeaActivity;
 import com.algonquintimes.algonquintimes.Login.LoginActivity;
 import com.algonquintimes.algonquintimes.R;
 import com.algonquintimes.algonquintimes.Utils.BottomNavigationViewHelper;
@@ -53,6 +51,7 @@ public class ArticlesActivity extends AppCompatActivity implements NavigationVie
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_articles);
+
 
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
