@@ -4,7 +4,24 @@
             "outputFile": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml",
             "map": [
                 {
-                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/3fa26f3d49ff07fdac7a4737058da82b/res/values-sw/values.xml",
+                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3d29a1b4fa9cb6e11e4b5ecee85b22dc/res/values-sw/values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "98",
+                        "startColumns": "4",
+                        "startOffsets": "12945",
+                        "endColumns": "100",
+                        "endOffsets": "13041"
+                    }
+                },
+                {
+                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/5c0cfe707db3152508c44fbc376c0ffa/res/values-sw/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d7e415dc6f18c6197a0fa3ba90ceb66d/res/values-sw/values-sw.xml",
+                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/016d0139c5871ed388af36e0e5c66048/res/values-sw/values-sw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/values-sw/values-sw.xml",
+                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/f8ec8de514de5eabd093ca527bc61374/res/values-sw/values-sw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +72,7 @@
                     }
                 },
                 {
-                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/ce2a053cdefd24b99818cde3ef6f976a/res/values-sw/values.xml",
+                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2eced7d6307e3c531458b0ca92b87117/res/values-sw/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -69,23 +86,6 @@
                         "startOffsets": "10113,10219,10407,10534,10645,10867,10994,11143,11491,11715,11823,12008,12137,12346,12535,12633,12738",
                         "endColumns": "105,187,126,110,221,126,148,142,223,107,184,128,208,188,97,104,124",
                         "endOffsets": "10214,10402,10529,10640,10862,10989,11138,11281,11710,11818,12003,12132,12341,12530,12628,12733,12858"
-                    }
-                },
-                {
-                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/96bbc167932b999ec6af3790f9111746/res/values-sw/values-sw.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "98",
-                        "startColumns": "4",
-                        "startOffsets": "12945",
-                        "endColumns": "100",
-                        "endOffsets": "13041"
                     }
                 }
             ]

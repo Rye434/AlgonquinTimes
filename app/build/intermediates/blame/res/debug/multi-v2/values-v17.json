@@ -4,18 +4,7 @@
             "outputFile": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/28c113f39ea9f6c2c5a9ba80197f26b5/res/values-v17/values-v17.xml",
-                    "from": {
-                        "startLines": "2,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,669",
-                        "endLines": "13,17",
-                        "endColumns": "12,12",
-                        "endOffsets": "664,942"
-                    }
-                },
-                {
-                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d7e415dc6f18c6197a0fa3ba90ceb66d/res/values-v17/values-v17.xml",
+                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/016d0139c5871ed388af36e0e5c66048/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -31,6 +20,17 @@
                         "endLines": "20,24,27,30,33,37,41,44,47,50,54,57,61,65",
                         "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12",
                         "endOffsets": "1115,1343,1501,1651,1823,2051,2293,2464,2638,2807,3080,3280,3484,3813"
+                    }
+                },
+                {
+                    "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/f8ec8de514de5eabd093ca527bc61374/res/values-v17/values-v17.xml",
+                    "from": {
+                        "startLines": "2,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,669",
+                        "endLines": "13,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "664,942"
                     }
                 }
             ]
