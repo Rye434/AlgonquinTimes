@@ -100,15 +100,17 @@
             android:name="com.algonquintimes.algonquintimes.Login.AccountActivity"
             android:label="@string/account"
             android:screenOrientation="portrait" />
-        <activity
-            android:name="com.algonquintimes.algonquintimes.Articles.ArticlesActivity"
-            android:launchMode="singleInstance"
-            android:screenOrientation="portrait" >
+        <activity android:name="com.algonquintimes.algonquintimes.Onboarding.OnBoardingClass" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.algonquintimes.algonquintimes.Articles.ArticlesActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait" >
         </activity>
         <activity
             android:name="com.algonquintimes.algonquintimes.Email.SendTipActivity"

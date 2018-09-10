@@ -92,17 +92,21 @@
         <activity android:name=".Login.AccountActivity"
             android:label="@string/account"
             android:screenOrientation="portrait" />
+
+        <activity android:name=".Onboarding.OnBoardingClass">
+
+        </activity>
+
         <activity
             android:name=".Articles.ArticlesActivity"
             android:launchMode="singleInstance"
             android:screenOrientation="portrait">
             <intent-filter>
-                 <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
 
             </intent-filter>
-
         </activity>
         <activity
             android:name=".Email.SendTipActivity"

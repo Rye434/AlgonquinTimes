@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-176:12
-INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-176:12
-INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-176:12
-INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-176:12
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-181:12
+INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-181:12
+INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-181:12
+INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-181:12
 MERGED from [:onboarder] /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/onboarder/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.android:account-kit-sdk:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/f8ec8de514de5eabd093ca527bc61374/AndroidManifest.xml:21:1-55:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.36.0.aar/af74befafbd5b48d9827a1a3b597be6a/AndroidManifest.xml:21:1-31:12
@@ -49,22 +49,22 @@ MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/ri
 MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/1647f189600cf772ae637b3226ba72d9/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/6b14fe0ecbeb5b33fafed081c4473ae7/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/561a9eb26f1738f573fb9ab368ddee3d/AndroidManifest.xml:2:1-6:12
-INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-176:12
-INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-176:12
-INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-176:12
+INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-181:12
+INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-181:12
+INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-181:12
 	package
 		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:4:5-48
 		INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-176:12
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-181:12
 		INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-176:12
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:1-181:12
 		INJECTED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:2:11-69
@@ -213,7 +213,7 @@ ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/mai
 	android:name
 		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:25:9-47
 application
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:28:5-174:19
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:28:5-179:19
 MERGED from [com.facebook.android:account-kit-sdk:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/f8ec8de514de5eabd093ca527bc61374/AndroidManifest.xml:28:5-53:19
 MERGED from [com.facebook.android:account-kit-sdk:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/f8ec8de514de5eabd093ca527bc61374/AndroidManifest.xml:28:5-53:19
 MERGED from [com.facebook.android:facebook-android-sdk:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.36.0.aar/af74befafbd5b48d9827a1a3b597be6a/AndroidManifest.xml:28:5-29:19
@@ -375,142 +375,146 @@ ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/mai
 		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:93:13-44
 	android:name
 		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:92:19-56
-activity#com.algonquintimes.algonquintimes.Articles.ArticlesActivity
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:95:9-106:20
-	android:screenOrientation
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:98:13-49
-	android:launchMode
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:97:13-48
+activity#com.algonquintimes.algonquintimes.Onboarding.OnBoardingClass
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:96:9-103:20
 	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:96:13-54
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:96:19-61
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:99:13-104:29
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:97:13-102:29
 action#android.intent.action.MAIN
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:100:18-70
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:98:17-69
 	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:100:26-67
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:98:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:102:17-77
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:100:17-77
 	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:102:27-74
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:100:27-74
+activity#com.algonquintimes.algonquintimes.Articles.ArticlesActivity
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:105:9-111:20
+	android:screenOrientation
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:108:13-49
+	android:launchMode
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:107:13-48
+	android:name
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:106:13-54
 activity#com.algonquintimes.algonquintimes.Email.SendTipActivity
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:107:9-110:51
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:112:9-115:51
 	android:screenOrientation
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:110:13-49
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:115:13-49
 	android:launchMode
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:109:13-48
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:114:13-48
 	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:108:13-50
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:113:13-50
 activity#com.algonquintimes.algonquintimes.Email.StoryIdeaActivity
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:111:9-114:51
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:116:9-119:51
 	android:screenOrientation
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:114:13-49
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:119:13-49
 	android:launchMode
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:113:13-48
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:118:13-48
 	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:112:13-52
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:117:13-52
 activity#com.algonquintimes.algonquintimes.Calendar.CalendarActivity
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:115:9-118:51
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:120:9-123:51
 	android:screenOrientation
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:118:13-49
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:123:13-49
 	android:launchMode
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:117:13-48
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:122:13-48
 	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:116:13-54
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:121:13-54
 activity#com.algonquintimes.algonquintimes.Social.SocialActivity
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:119:9-124:51
-	android:screenOrientation
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:124:13-49
-	android:launchMode
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:123:13-48
-	android:hardwareAccelerated
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:122:13-47
-	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:120:13-50
-activity#com.algonquintimes.algonquintimes.Articles.PostFullScreen
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:126:9-129:51
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:124:9-129:51
 	android:screenOrientation
 		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:129:13-49
 	android:launchMode
 		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:128:13-48
+	android:hardwareAccelerated
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:127:13-47
 	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:127:13-52
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:125:13-50
+activity#com.algonquintimes.algonquintimes.Articles.PostFullScreen
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:131:9-134:51
+	android:screenOrientation
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:134:13-49
+	android:launchMode
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:133:13-48
+	android:name
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:132:13-52
 activity#com.algonquintimes.algonquintimes.Calendar.EventFullScreen
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:130:9-133:51
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:135:9-138:51
 	android:screenOrientation
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:133:13-49
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:138:13-49
 	android:launchMode
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:132:13-48
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:137:13-48
 	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:131:13-53
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:136:13-53
 activity#com.algonquintimes.algonquintimes.Articles.SearchableActivity
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:134:9-144:20
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:139:9-149:20
 	android:screenOrientation
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:137:13-49
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:142:13-49
 	android:launchMode
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:136:13-43
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:141:13-43
 	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:135:13-56
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:140:13-56
 intent-filter#action:name:android.intent.action.SEARCH
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:138:13-140:29
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:143:13-145:29
 action#android.intent.action.SEARCH
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:139:17-71
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:144:17-71
 	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:139:25-68
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:144:25-68
 meta-data#android.app.searchable
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:141:13-143:54
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:146:13-148:54
 	android:resource
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:143:17-51
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:148:17-51
 	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:142:17-54
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:147:17-54
 activity#com.algonquintimes.algonquintimes.Settings.SettingsActivity
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:146:9-149:51
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:151:9-154:51
 	android:screenOrientation
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:149:13-49
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:154:13-49
 	android:launchMode
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:148:13-48
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:153:13-48
 	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:147:13-54
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:152:13-54
 activity#com.algonquintimes.algonquintimes.Settings.AboutActivity
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:150:9-153:51
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:155:9-158:51
 	android:screenOrientation
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:153:13-49
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:158:13-49
 	android:launchMode
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:152:13-48
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:157:13-48
 	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:151:13-51
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:156:13-51
 activity#com.algonquintimes.algonquintimes.Settings.ContactActivity
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:154:9-157:51
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:159:9-162:51
 	android:screenOrientation
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:157:13-49
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:162:13-49
 	android:launchMode
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:156:13-48
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:161:13-48
 	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:155:13-53
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:160:13-53
 activity#com.algonquintimes.algonquintimes.Settings.TermsActivity
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:158:9-161:51
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:163:9-166:51
 	android:screenOrientation
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:161:13-49
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:166:13-49
 	android:launchMode
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:160:13-48
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:165:13-48
 	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:159:13-51
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:164:13-51
 provider#android.support.v4.content.FileProvider
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:164:9-172:20
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:169:9-177:20
 	android:grantUriPermissions
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:168:13-47
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:173:13-47
 	android:authorities
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:166:13-90
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:171:13-90
 	android:exported
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:167:13-37
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:172:13-37
 	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:165:13-67
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:170:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:169:13-171:64
+ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:174:13-176:64
 	android:resource
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:171:17-51
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:176:17-51
 	android:name
-		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:170:17-67
+		ADDED from /Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/AndroidManifest.xml:175:17-67
 provider#com.facebook.accountkit.internal.AccountKitInitProvider
 ADDED from [com.facebook.android:account-kit-sdk:4.36.0] /Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.36.0.aar/f8ec8de514de5eabd093ca527bc61374/AndroidManifest.xml:49:9-52:40
 	android:authorities
