@@ -93,12 +93,12 @@
             android:label="@string/account"
             android:screenOrientation="portrait" />
 
-        <activity android:name=".Onboarding.OnBoardingClass">
+        <activity android:name=".Articles.ArticlesActivity">
 
         </activity>
 
         <activity
-            android:name=".Articles.ArticlesActivity"
+            android:name=".Onboarding.OnBoardingClass"
             android:launchMode="singleInstance"
             android:screenOrientation="portrait">
             <intent-filter>

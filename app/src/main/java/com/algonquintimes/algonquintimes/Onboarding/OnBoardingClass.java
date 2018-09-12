@@ -2,7 +2,6 @@ package com.algonquintimes.algonquintimes.Onboarding;
 
 import android.content.Context;
 import android.content.Intent;
-import android.graphics.Typeface;
 import android.os.Bundle;
 
 import com.algonquintimes.algonquintimes.Articles.ArticlesActivity;
@@ -32,13 +31,15 @@ public class OnBoardingClass extends AhoyOnboarderActivity {
 
         mContext = this;
 
-        AhoyOnboarderCard ahoyOnboarderCard1 = new AhoyOnboarderCard("", "", R.drawable.com_accountkit_pencil);
-        AhoyOnboarderCard ahoyOnboarderCard2 = new AhoyOnboarderCard("", "", R.drawable.com_accountkit_pencil);
-        AhoyOnboarderCard ahoyOnboarderCard3 = new AhoyOnboarderCard("", "", R.drawable.com_accountkit_pencil);
+        AhoyOnboarderCard ahoyOnboarderCard1 = new AhoyOnboarderCard("Be A Reporter!", "");
+        AhoyOnboarderCard ahoyOnboarderCard2 = new AhoyOnboarderCard("Check out the news!", "");
+        AhoyOnboarderCard ahoyOnboarderCard3 = new AhoyOnboarderCard("Get Involved!", "");
 
-        ahoyOnboarderCard1.setBackgroundColor(R.color.theme1_colorPrimary);
-        ahoyOnboarderCard2.setBackgroundColor(R.color.theme1_colorPrimary);
-        ahoyOnboarderCard3.setBackgroundColor(R.color.theme1_colorPrimary);
+        ahoyOnboarderCard1.setBackgroundColor(R.color.black_transparent_image);
+        ahoyOnboarderCard2.setBackgroundColor(R.color.black_transparent_image);
+        ahoyOnboarderCard3.setBackgroundColor(R.color.black_transparent_image);
+
+
 
         List<AhoyOnboarderCard> pages = new ArrayList<>();
 
@@ -52,11 +53,9 @@ public class OnBoardingClass extends AhoyOnboarderActivity {
         }
 
         setFinishButtonTitle("Get Started");
-        showNavigationControls(true);
-        setColorBackground(R.color.theme1_colorPrimary);
+        showNavigationControls(false);
+        setImageBackground(R.drawable.events);
 
-        Typeface face = Typeface.createFromAsset(getAssets(), "fonts/Roboto-Light.ttf");
-        //setFont(face);
 
         setInactiveIndicatorColor(R.color.grey_600);
         setActiveIndicatorColor(R.color.white);
