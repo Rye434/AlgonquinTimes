@@ -54,7 +54,7 @@ public class OnBoardingClass extends AhoyOnboarderActivity {
 
         setFinishButtonTitle("Get Started");
         showNavigationControls(false);
-        setImageBackground(R.drawable.events);
+        setImageBackground();
 
 
         setInactiveIndicatorColor(R.color.grey_600);

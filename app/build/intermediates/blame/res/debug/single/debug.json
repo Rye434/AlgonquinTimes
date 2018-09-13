@@ -776,6 +776,10 @@
         "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/016d0139c5871ed388af36e0e5c66048/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_newspaper.jpg.flat",
+        "source": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/res/drawable/newspaper.jpg"
+    },
+    {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_facebook_tooltip_black_background.9.png.flat",
         "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-login-4.36.0.aar/2538b76d82649ccb1eaafe1a98671cbf/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png"
     },
@@ -1388,6 +1392,10 @@
         "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/016d0139c5871ed388af36e0e5c66048/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
+        "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_socialmedia.jpg.flat",
+        "source": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/res/drawable/socialmedia.jpg"
+    },
+    {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
         "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6ab2a6c21c90994c72d8e33b5b4e3ce2/res/layout/notification_template_media_custom.xml"
     },
@@ -1740,10 +1748,6 @@
         "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3fc19489ee6186b160bbeb9d92192193/res/drawable-mdpi-v4/design_ic_visibility.png"
     },
     {
-        "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_socialmedia.png.flat",
-        "source": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/res/drawable/socialmedia.png"
-    },
-    {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_com_facebook_button_send_background.xml.flat",
         "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/facebook-share-4.36.0.aar/b62c02cdbf558be66dbbc738ad51527b/res/drawable/com_facebook_button_send_background.xml"
     },
@@ -1962,6 +1966,10 @@
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
         "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/016d0139c5871ed388af36e0e5c66048/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_events.jpg.flat",
+        "source": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/res/drawable/events.jpg"
     },
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_xout.png.flat",
@@ -2908,10 +2916,6 @@
         "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/016d0139c5871ed388af36e0e5c66048/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_events.png.flat",
-        "source": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/res/drawable/events.png"
-    },
-    {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/2eced7d6307e3c531458b0ca92b87117/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
@@ -3078,9 +3082,5 @@
     {
         "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_in.xml.flat",
         "source": "/Users/rileygriffith/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3fc19489ee6186b160bbeb9d92192193/res/anim-v21/design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/build/intermediates/res/merged/debug/drawable_newspaper.png.flat",
-        "source": "/Users/rileygriffith/Documents/Code/GitHub/AlgonquinTimes/app/src/main/res/drawable/newspaper.png"
     }
 ]
