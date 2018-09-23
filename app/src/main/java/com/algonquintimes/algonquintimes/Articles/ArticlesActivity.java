@@ -4,6 +4,7 @@ import android.app.SearchManager;
 import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.design.widget.BottomNavigationView;
 import android.support.design.widget.FloatingActionButton;
@@ -26,6 +27,7 @@ import android.view.animation.AnimationUtils;
 import android.widget.LinearLayout;
 
 import com.algonquintimes.algonquintimes.Login.LoginActivity;
+import com.algonquintimes.algonquintimes.Onboarding.OnBoardingClass;
 import com.algonquintimes.algonquintimes.R;
 import com.algonquintimes.algonquintimes.Utils.BottomNavigationViewHelper;
 
@@ -51,6 +53,14 @@ public class ArticlesActivity extends AppCompatActivity implements NavigationVie
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_articles);
+
+        SharedPreferences pref = getSharedPreferences("MyPrefs", mContext.MODE_PRIVATE);
+        String onboarded = pref.getString("log", "default");
+        Log.d("logging", onboarded);
+        if(onboarded == "default"){
+            Intent intent = new Intent(this, OnBoardingClass.class);
+            startActivity(intent);
+        }
 
 
         Toolbar toolbar = findViewById(R.id.toolbar);

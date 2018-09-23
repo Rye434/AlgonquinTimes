@@ -93,12 +93,7 @@
             android:label="@string/account"
             android:screenOrientation="portrait" />
 
-        <activity android:name=".Articles.ArticlesActivity">
-
-        </activity>
-
-        <activity
-            android:name=".Onboarding.OnBoardingClass"
+        <activity android:name=".Articles.ArticlesActivity"
             android:launchMode="singleInstance"
             android:screenOrientation="portrait">
             <intent-filter>
@@ -107,6 +102,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
 
             </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".Onboarding.OnBoardingClass">
         </activity>
         <activity
             android:name=".Email.SendTipActivity"

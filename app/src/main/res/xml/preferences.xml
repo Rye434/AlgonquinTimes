@@ -26,7 +26,7 @@
             android:summary="Some frequently asked questions"
             android:title="F.A.Q." />
         <ListPreference
-            android:summary="Highly doubt you're going to read this but here it is"
+            android:summary="Just the terms and conditions"
             android:title="Terms and Conditions" />
         <ListPreference
             android:summary="About the team an technologies used to make this app"

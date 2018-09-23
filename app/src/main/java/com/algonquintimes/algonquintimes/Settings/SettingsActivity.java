@@ -1,6 +1,7 @@
 package com.algonquintimes.algonquintimes.Settings;
 
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.BottomNavigationView;
 import android.support.v7.app.ActionBar;
@@ -10,6 +11,7 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.algonquintimes.algonquintimes.Articles.ArticlesActivity;
 import com.algonquintimes.algonquintimes.R;
 import com.algonquintimes.algonquintimes.Utils.BottomNavigationViewHelper;
 
@@ -30,7 +32,9 @@ public class SettingsActivity extends AppCompatActivity {
         ActionBar actionbar = getSupportActionBar();
         actionbar.setTitle("Settings");
 
-
+        startActivity(new Intent(mContext, ArticlesActivity.class)
+                .addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK));
+        finish();
     }
 
     /**
@@ -70,6 +74,10 @@ public class SettingsActivity extends AppCompatActivity {
         MenuItem menuItem = menu.getItem(ACTIVITY_NUM);
         menuItem.setChecked(true);
     }
+
+
+
+
 
 
 }

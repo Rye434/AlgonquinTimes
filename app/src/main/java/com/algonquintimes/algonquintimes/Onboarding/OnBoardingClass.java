@@ -2,6 +2,7 @@ package com.algonquintimes.algonquintimes.Onboarding;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 
 import com.algonquintimes.algonquintimes.Articles.ArticlesActivity;
@@ -31,14 +32,13 @@ public class OnBoardingClass extends AhoyOnboarderActivity {
 
         mContext = this;
 
-        AhoyOnboarderCard ahoyOnboarderCard1 = new AhoyOnboarderCard("Be A Reporter!", "");
-        AhoyOnboarderCard ahoyOnboarderCard2 = new AhoyOnboarderCard("Check out the news!", "");
-        AhoyOnboarderCard ahoyOnboarderCard3 = new AhoyOnboarderCard("Get Involved!", "");
+        AhoyOnboarderCard ahoyOnboarderCard1 = new AhoyOnboarderCard("", "", R.drawable.newspaper);
+        AhoyOnboarderCard ahoyOnboarderCard2 = new AhoyOnboarderCard("", "", R.drawable.events);
+        AhoyOnboarderCard ahoyOnboarderCard3 = new AhoyOnboarderCard("", "", R.drawable.socialmedia);
 
-        ahoyOnboarderCard1.setBackgroundColor(R.color.black_transparent_image);
-        ahoyOnboarderCard2.setBackgroundColor(R.color.black_transparent_image);
-        ahoyOnboarderCard3.setBackgroundColor(R.color.black_transparent_image);
-
+        ahoyOnboarderCard1.setBackgroundColor(R.color.bordergreen);
+        ahoyOnboarderCard2.setBackgroundColor(R.color.bordergreen);
+        ahoyOnboarderCard3.setBackgroundColor(R.color.bordergreen);
 
 
         List<AhoyOnboarderCard> pages = new ArrayList<>();
@@ -54,7 +54,7 @@ public class OnBoardingClass extends AhoyOnboarderActivity {
 
         setFinishButtonTitle("Get Started");
         showNavigationControls(false);
-        setImageBackground();
+        setColorBackground(R.color.black);
 
 
         setInactiveIndicatorColor(R.color.grey_600);
@@ -65,6 +65,12 @@ public class OnBoardingClass extends AhoyOnboarderActivity {
 
     @Override
     public void onFinishButtonPressed() {
+
+        SharedPreferences pref = getSharedPreferences("MyPrefs", mContext.MODE_PRIVATE);
+        SharedPreferences.Editor edit = pref.edit();
+        edit.putString("log", "true");
+        edit.commit();
+
         startActivity(new Intent(mContext, ArticlesActivity.class)
                 .addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK));
         finish();

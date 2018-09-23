@@ -6,7 +6,7 @@
     <color name="fabSubColor">#01579B</color>
 
     <color name="grey">#bfbfbf</color>
-    <color name="darkgrey">#ffffff</color>
+    <color name="darkgrey">#000000</color>
     <color name="white">#fff</color>
     <color name="black">#000000</color>
     <color name="link_blue">#4d94ff</color>
@@ -19,7 +19,7 @@
 
 
     <color name="black_overlay">#66000000</color>
-
+    <color name="bordergreen">#184D24</color>
     <color name="darkBlue">#880000FF</color>
     <color name="transparent">#000000FF</color>
     <color name="transGray">#cc444444</color>
